@@ -1,0 +1,12 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.important {
+    color: red;
+}
+
+#title {
+    color: orange;
+}
